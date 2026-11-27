@@ -21,7 +21,7 @@
 
 ![שינוי חציוני לפי שנה](out/fig_year_path.png)
 
-![שינוי חציוני לפי מדינה](out/fig_by_state.png)
+![דירוג המדינות לפי השינוי, עם קו מגמה לכל מדינה](out/fig_ranking_table.png)
 
 ## הנתונים
 
@@ -60,7 +60,7 @@ python make_figures.py out
 |---|---|
 | הורדת הנתונים מהמקור | `get_data.py` |
 | כל הניתוח, מהנתונים הגולמיים ועד הטבלאות | `analysis.py` |
-| שני הגרפים | `make_figures.py` |
+| הגרפים | `make_figures.py` |
 | כל החלטה, מי קיבל אותה ולמה | `decisions.md` |
 | שחזור, שני סבבי ביקורת, יומן תיקונים ומה לא אומת | `verification.md` |
 | גרסאות הבקשה למודל והציונים שלהן | `prompt.md` |
