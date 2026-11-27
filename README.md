@@ -50,7 +50,7 @@ The main value of the project is the working method, not only the finding: desig
 ## Reproduce
 
 ```
-pip install pandas numpy matplotlib
+pip install -r requirements.txt
 python get_data.py data
 python analysis.py data out
 python make_figures.py out
@@ -75,3 +75,7 @@ Bald, A., Gold, S., & Yang, Y. T. (2025). State repeal of nonmedical vaccine exe
 Dong, E., Saiyed, S., Nearchou, A., Okura, Y., & Gardner, L. M. (2025). Trends in county-level MMR vaccination coverage in children in the United States. *JAMA*. https://doi.org/10.1001/jama.2025.8952
 
 Johns Hopkins University Center for Systems Science and Engineering. (2026). *MMR_data* [Data set]. GitHub. https://github.com/CSSEGISandData/MMR_data
+
+## License
+
+Code: MIT, see [LICENSE](LICENSE). The data are not included; see [Data](#data) for the source.
