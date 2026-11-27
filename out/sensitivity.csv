@@ -1,0 +1,9 @@
+﻿,median change,% below baseline,% down >=1,% down >=2,median of state medians
+primary,-3.0,81.42,73.04,62.29,-2.75
+CO baseline = mean 2017-18 to 2019-20,-3.0,81.08,72.7,61.8,-2.75
+drop CO,-3.06,82.31,73.98,63.01,-3.0
+"drop VT, WI (capped at 95)",-3.0,81.31,72.4,61.8,-2.75
+"drop TN (baseline weighted by dataset authors), OK (optional survey)",-2.94,80.74,71.87,61.09,-2.48
+"drop Wasco, OR (shares series with Sherman)",-3.0,81.41,73.03,62.26,-2.75
+last = 2023-24 for all states,-2.77,81.19,72.52,60.0,-2.76
+state-weighted (mean of state values),-3.01,77.35,69.11,59.06,-3.01

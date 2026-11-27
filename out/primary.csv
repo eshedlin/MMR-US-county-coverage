@@ -1,0 +1,6 @@
+﻿,estimate,ci_low,ci_high
+median change,-3.0,-3.86,-2.29
+% below baseline,81.42,76.21,85.49
+% down >=1,73.04,65.86,79.42
+% down >=2,62.29,54.16,69.71
+median of state medians,-2.75,-4.01,-2.14
