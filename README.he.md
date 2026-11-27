@@ -54,7 +54,7 @@
 <div dir="ltr">
 
 ```
-pip install pandas numpy matplotlib
+pip install -r requirements.txt
 python get_data.py data
 python analysis.py data out
 python make_figures.py out
@@ -85,5 +85,9 @@ Dong, E., Saiyed, S., Nearchou, A., Okura, Y., & Gardner, L. M. (2025). Trends i
 Johns Hopkins University Center for Systems Science and Engineering. (2026). *MMR_data* [Data set]. GitHub. https://github.com/CSSEGISandData/MMR_data
 
 </div>
+
+## רישיון
+
+הקוד ברישיון MIT, ראו [LICENSE](LICENSE). הנתונים לא נכללים במאגר; המקור מפורט בסעיף "הנתונים".
 
 </div>
