@@ -65,7 +65,6 @@ python make_figures.py out
 | `make_figures.py` | The figures |
 | `decisions.md` | Every decision, who made it and why (Hebrew) |
 | `verification.md` | Reproduction, two review rounds, correction log, what was not verified (Hebrew) |
-| `prompt.md` | Versions of the prompt to the model and their scores (Hebrew) |
 | `review_scripts/` | The reviewers' scripts, to reproduce the checks |
 | `out/` | Result tables and figures |
 
